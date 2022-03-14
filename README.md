@@ -8,4 +8,4 @@ The player takes turns alternating with an AI algorithm (a simple min-max tree)
 
 During the testing process the game resulted in a draw/win for the AI 87% of the time
 
-Unfortunately there exists a winning strategy for a human player :c
+Unfortunately there exists a winning strategy for the human player :c
