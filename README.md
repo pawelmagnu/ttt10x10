@@ -1,11 +1,11 @@
-Program napisany w języku C
+An upgraded version of my 3x3 ttt game: https://github.com/pawelmagnu/ttt3x3
 
-Jest to gra kóło i krzyżyk ale na planszy 10x10
+The game takes place on a 10x10 grid
 
-Wygrana jest w momencie ustawienia 5 znaczków w linii
+First to 5 marks in any direction wins
 
-Gracz gra z komputerem (AI oparte na drzewie min-max)
+The player takes turns alternating with an AI algorithm (a simple min-max tree)
 
-W trakcie testowania komputer zremisował/wygrał 87 na 100 partii
+During the testing process the game resulted in a draw/win for the AI 87% of the time
 
-Niestety istnieje strategia wygrywająca z komputerem :c
+Unfortunately there exists a winning strategy for a human player :c
